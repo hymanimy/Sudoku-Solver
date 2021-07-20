@@ -1,2 +1,2 @@
 # Sudoku-Solver
-Haskell made sudoku solver 
+Haskell made sudoku solver using recursive backtracking. 
